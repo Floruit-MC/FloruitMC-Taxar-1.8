@@ -1,0 +1,4 @@
+name: FloruitTaxar
+version: '1.0-SNAPSHOT'
+main: com.hanielcota.floruittaxar.FloruitTaxarPlugin
+api-version: '1.21'

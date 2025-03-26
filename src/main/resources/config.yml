@@ -1,0 +1,21 @@
+messages:
+  usage: "&cUso: /taxar <jogador> [motivo] [porcentagem]"
+  player-not-found: "&c✘ Jogador não encontrado ou offline."
+  no-faction: "&c✘ O jogador não está em nenhuma facção."
+  choose-reason: "&e✔ Escolha o motivo da taxação:"
+  no-reason: "&c✘ Forneça um motivo válido."
+  invalid-percentage: "&c✘ Porcentagem inválida. Use um número entre 1 e 100."
+  invalid-percentage-range: "&c✘ Porcentagem deve estar entre 1 e 100."
+  tax-success: "&a✔ Facção e membros taxados com sucesso."
+  tax-broadcast:
+    - "&c&lFLORUIT MC &f➤ &c✘ Aviso de Taxação"
+    - "&e&lFLORUIT MC &f➤ &e✔ A facção {faction} foi taxada em {percentage}% por: {reason}"
+    - "&c&lFLORUIT MC &f➤ &c✘ Fim do comunicado"
+
+tax-reasons:
+  Banimento:
+    description: "Banido do servidor"
+  Trapaça:
+    description: "Uso de cheats ou hacks"
+  Desrespeito:
+    description: "Comportamento inadequado"
